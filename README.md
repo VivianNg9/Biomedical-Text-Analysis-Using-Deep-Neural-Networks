@@ -124,7 +124,7 @@ def train_lstm_model(vocab_size, max_length, embedding_dim, lstm_units, dense_la
 ```
 </details>
 
-- For the Recurrent Neural Network, a dense layer configuration of [32, 32, 32] was selected, as it demonstrated the best F1 score in the Simple Siamese Neural Network.
+For the Recurrent Neural Network, a dense layer configuration of [32, 32, 32] was selected, as it demonstrated the best F1 score in the Simple Siamese Neural Network.
 
 **LSTM and Dense Layer Configurations**</p>
 I chose dense layer [32, 32, 32] that showed the best F1 score in task 1</p>
